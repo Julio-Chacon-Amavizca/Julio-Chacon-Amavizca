@@ -18,6 +18,9 @@ Soy un desarrollador apasionado por la tecnología y el código abierto.
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
+## 🥵 Ejemplos de aplicaciones creadas
+
+- Giffy: es una aplicacion que utiliza la API de Giphy para renderizar y buscar gifs. (https://giffy-sigma-seven.vercel.app/)
 
 
 ## 📊 Estadísticas de GitHub
