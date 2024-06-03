@@ -20,7 +20,7 @@ Soy un desarrollador apasionado por la tecnología y el código abierto.
 
 ## 🥵 Ejemplos de aplicaciones creadas
 
-- Giffy: es una aplicacion que utiliza la API de Giphy para renderizar y buscar gifs. (https://giffy-sigma-seven.vercel.app/)
+- Giffy: es una aplicación que utiliza la API de Giphy para renderizar y buscar gifs. (https://giffy-sigma-seven.vercel.app/)
 
 
 ## 📊 Estadísticas de GitHub
