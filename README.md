@@ -3,7 +3,7 @@
 Soy un desarrollador apasionado por la tecnología y el código abierto.
 
 - 🌱 Actualmente estoy aprendiendo Front-end con JavaScript.
-- 👯 Estoy buscando colaborar en areas relacionadas a Full Stack en entornos de JavaScript.
+- 👯 Estoy buscando colaborar en áreas relacionadas a Full Stack en entornos de JavaScript.
 - 💬 Pregúntame sobre cualquier duda :)
 - 📫 Cómo contactarme: Correo: Jcchacon3000@gmail.com o Celular: 6623497273.
 
@@ -20,8 +20,8 @@ Soy un desarrollador apasionado por la tecnología y el código abierto.
 
 ## 🤠 Ejemplos de aplicaciones creadas
 
-- Giffy: es una aplicación que utiliza la API de Giphy para renderizar y buscar gifs. (https://giffy-sigma-seven.vercel.app/)
-
+- Giffy: una aplicación que utiliza la API de Giphy para renderizar y buscar gifs. Puedes visitarla [aquí](https://giffy-sigma-seven.vercel.app/)
 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Julio-Chacon-Amavizca&show_icons=true&theme=radical)
+
