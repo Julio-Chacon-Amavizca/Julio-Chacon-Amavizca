@@ -21,7 +21,7 @@ Soy un desarrollador apasionado por la tecnología y el código abierto.
 ## 🤠 Ejemplos de aplicaciones creadas
 
 - Giffy: una aplicación que utiliza la API de Giphy para renderizar y buscar gifs. Puedes visitarla [aquí](https://giffy-sigma-seven.vercel.app/)
-- ChatGpt: Está diseñado para demostrar la funcionalidad básica de un chatbot. Puedes visitarla [aquí](https://giffy-sigma-seven.vercel.app/)
+- ChatGpt: Está diseñado para demostrar la funcionalidad básica de un chatbot. Puedes visitarla [aquí](chatgptlocal-seven.vercel.app)
 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Julio-Chacon-Amavizca&show_icons=true&theme=radical)
