@@ -20,8 +20,9 @@ Soy un desarrollador apasionado por la tecnología y el código abierto.
 
 ## 🤠 Ejemplos de aplicaciones creadas
 
-- Giffy: una aplicación que utiliza la API de Giphy para renderizar y buscar gifs. Puedes visitarla [aquí](https://giffy-sigma-seven.vercel.app/)
-- ChatGpt: Está diseñado para demostrar la funcionalidad básica de un chatbot. Puedes visitarla [aquí](https://chatgptlocal-seven.vercel.app/)
+- Giffy: una aplicación que utiliza la API de Giphy para renderizar y buscar gifs. Puedes visitarla aqui [GIFFY](https://giffy-sigma-seven.vercel.app/) [REPOSITORIO](https://github.com/Julio-Chacon-Amavizca/giffy) 
+- ChatGpt: Está diseñado para demostrar la funcionalidad básica de un chatbot. Puedes visitarla aquí [CHATGPT](https://chatgptlocal-seven.vercel.app/) [REPOSITORIO](https://github.com/Julio-Chacon-Amavizca/CHATGPT) 
+- Ejemplo Juego Super Mario Bros: Es una pequeña demo de un juego creado con la ayuda de la biblioteca Phaser. [SUPER MARIO BROS GAME](https://mariobrosexamplegame.web.app/) [REPOSITORIO](https://github.com/Julio-Chacon-Amavizca/super-mario-bros-example) 
 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Julio-Chacon-Amavizca&show_icons=true&theme=radical)
