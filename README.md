@@ -4,7 +4,7 @@ Soy un desarrollador apasionado por la tecnología y el código abierto.
 
 - 🌱 Actualmente soy desarrollador Full Stack con JavaScript.
 - 👯 Estoy buscando colaborar en áreas relacionadas a Full Stack en entornos de JavaScript.
-  🎮 Me gusta tanto Front End como Back End. Tambien un poco el darrollo de aplicaciones moviles y videojuegos.
+  🎮 Me gusta tanto Front End como Back End. Tambien un poco el dasarrollo de aplicaciones moviles y videojuegos.
 - 💬 Pregúntame sobre cualquier duda :)
 - 📫 Cómo contactarme: Correo: Jcchacon3000@gmail.com o Celular: 6623497273.
 
